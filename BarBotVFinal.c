@@ -5,7 +5,7 @@ EV3 Autonomous Robot Cumulating Project
 		Version 1.0
 
 Camron Sabahi-Pourkashani
-Dylan Finlay
+Dylan Finlay 
 Marlon Poddalgoda
 Waren Cao
 
