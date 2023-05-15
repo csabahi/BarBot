@@ -1,3 +1,6 @@
+![IMG_0828](https://github.com/csabahi/BarBot/assets/122414756/f0429be5-99e2-4bdf-92fa-061cc199dff6)
+
+
 # BarBot - Autonomous Drink Delivery
 BarBot is my first term Mechatronics design project created alongside [Dylan Finlay](https://github.com/DylanFinlay), Marlon Podollagoda and Warren Cao.
 
